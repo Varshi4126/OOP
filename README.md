@@ -35,11 +35,11 @@ SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
 1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | done |
 2 | Similarities between Structure and Class | [view](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure) | done |
-3 | When to use Structure over Class | homework | not done | 
-4 | Access Modifiers | [view](https://www.javatpoint.com/access-modifiers) | not done |
-5 | Member Function | [view](https://www.studytonight.com/cpp/types-of-member-function.php) | not done |
-6 | Constructor | [view](https://www.geeksforgeeks.org/constructors-c/) | not done |
-7 | Destructor | [view](https://www.geeksforgeeks.org/destructors-c/) | not done |
+3 | When to use Structure over Class | homework | done | 
+4 | Access Modifiers | [view](https://www.javatpoint.com/access-modifiers) | done |
+5 | Member Function | [view](https://www.studytonight.com/cpp/types-of-member-function.php) | done |
+6 | Constructor | [view](https://www.geeksforgeeks.org/constructors-c/) | done |
+7 | Destructor | [view](https://www.geeksforgeeks.org/destructors-c/) | done |
 
 ## Access Specifiers
 
