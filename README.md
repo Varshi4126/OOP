@@ -33,8 +33,8 @@ SNo | Topic | Link | Date Completed |
 
 SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
-1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | not done |
-2 | Similarities between Structure and Class | [view](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure) | not done |
+1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | done |
+2 | Similarities between Structure and Class | [view](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure) | done |
 3 | When to use Structure over Class | homework | not done | 
 4 | Access Modifiers | [view](https://www.javatpoint.com/access-modifiers) | not done |
 5 | Member Function | [view](https://www.studytonight.com/cpp/types-of-member-function.php) | not done |
@@ -84,22 +84,22 @@ SNo | Topic | Link | Date Completed |
 
 SNo | Topic | Link | Date Completed | 
 ----|-------|------|----------------|
-1 | difference btw Class and Object| [view](https://www.javatpoint.com/difference-between-object-and-class) | not done |
-2 | Real world Analogy btw Class and Object | [view](https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1) | not done |
+1 | difference btw Class and Object| [view](https://www.javatpoint.com/difference-between-object-and-class) | done |
+2 | Real world Analogy btw Class and Object | [view](https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1) | done |
 
 ## Important Keywords
 
 SNo | Topic | Link | Date Completed | 
 ----|-------|------|----------------|
-1 | static | [view](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword) | not done | 
-2 | virtual | [view](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used) | not done |
-3 | abstract | [view](https://www.tutorialspoint.com/abstract-keyword-in-Java) | not done |
-4 | final | [view](https://www.javatpoint.com/final-keyword) | not done |
-5 | explicit | [view](https://www.geeksforgeeks.org/g-fact-93/) | not done |
-6 | this | [view](https://www.javatpoint.com/this-keyword) | not done |
-7 | new | [view](https://www.javatpoint.com/new-keyword-in-java) | not done |
-8 | const | [view](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java) | not done |
-9 | super | [view](https://www.javatpoint.com/super-keyword) | not done |
+1 | static | [view](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword) | done | 
+2 | virtual | [view](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used) | done |
+3 | abstract | [view](https://www.tutorialspoint.com/abstract-keyword-in-Java](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/) | done |
+4 | final | [view](https://www.javatpoint.com/final-keyword) | done |
+5 | explicit | [view](https://www.geeksforgeeks.org/g-fact-93/) | done |
+6 | this | [view](https://www.javatpoint.com/this-keyword) | done |
+7 | new | [view](https://www.javatpoint.com/new-keyword-in-java) | done |
+8 | const | [view](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java) | done |
+9 | super | [view](https://www.javatpoint.com/super-keyword) | done |
 
 ## Features of OOPs :
 
