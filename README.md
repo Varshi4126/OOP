@@ -93,7 +93,7 @@ SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
 1 | static | [view](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword) | done | 
 2 | virtual | [view](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used) | done |
-3 | abstract | [view](https://www.tutorialspoint.com/abstract-keyword-in-Java](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/) | done |
+3 | abstract | [view](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/) | done |
 4 | final | [view](https://www.javatpoint.com/final-keyword) | done |
 5 | explicit | [view](https://www.geeksforgeeks.org/g-fact-93/) | done |
 6 | this | [view](https://www.javatpoint.com/this-keyword) | done |
