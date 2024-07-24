@@ -94,12 +94,12 @@ SNo | Topic | Link | Date Completed |
 1 | static | [view](https://www.youth4work.com/Talent/Core-Java/Forum/119567-wat-is-the-use-of-a-static-keyword) | done | 
 2 | virtual | [view](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used) | done |
 3 | abstract | [view](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/) | done |
-4 | final | [view](https://www.javatpoint.com/final-keyword) | done |
+4 | final | [view](https://www.geeksforgeeks.org/c-final-specifier/) | done |
 5 | explicit | [view](https://www.geeksforgeeks.org/g-fact-93/) | done |
-6 | this | [view](https://www.javatpoint.com/this-keyword) | done |
-7 | new | [view](https://www.javatpoint.com/new-keyword-in-java) | done |
-8 | const | [view](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java) | done |
-9 | super | [view](https://www.javatpoint.com/super-keyword) | done |
+6 | this | [view](https://www.geeksforgeeks.org/this-pointer-in-c/) | done |
+7 | new | [view](https://www.scaler.com/topics/cpp/new-operator-in-cpp/) | done |
+8 | const | [view in JAVA](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java), [view in CPP](https://learn.microsoft.com/en-us/cpp/cpp/const-cpp?view=msvc-170) | done |
+9 | super | [view](https://stackoverflow.com/questions/180601/using-super-in-c) | done |
 
 ## Features of OOPs :
 
